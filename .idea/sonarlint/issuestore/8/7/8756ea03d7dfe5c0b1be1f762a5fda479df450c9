@@ -1,0 +1,7 @@
+
+|
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "productos".(Ÿèãšÿÿÿÿÿ
+W
+java:S1854'"<Remove this useless assignment to local variable "producto".(“åý¢ùÿÿÿÿ
+H
+java:S1481'"-Remove this unused "producto" local variable.(“åý¢ùÿÿÿÿ
